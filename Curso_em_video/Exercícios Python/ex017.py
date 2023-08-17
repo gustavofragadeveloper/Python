@@ -1,0 +1,1 @@
+cateto_oposto = inp
